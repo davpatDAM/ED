@@ -1,0 +1,6 @@
+20180917
+git config --global user.name davpatDAM
+git config --global user.name 1dam.dverdejo@institutoserpis.org
+git config --global push.default simple
+git config --list
+
