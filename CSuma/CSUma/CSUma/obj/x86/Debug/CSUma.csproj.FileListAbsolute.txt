@@ -1,0 +1,6 @@
+/home/davpat/ED/CSuma/CSUma/CSUma/bin/Debug/CSUma.exe
+/home/davpat/ED/CSuma/CSUma/CSUma/bin/Debug/CSUma.pdb
+/home/davpat/ED/CSuma/CSUma/CSUma/obj/x86/Debug/CSUma.csprojAssemblyReference.cache
+/home/davpat/ED/CSuma/CSUma/CSUma/obj/x86/Debug/CSUma.csproj.CoreCompileInputs.cache
+/home/davpat/ED/CSuma/CSUma/CSUma/obj/x86/Debug/CSUma.exe
+/home/davpat/ED/CSuma/CSUma/CSUma/obj/x86/Debug/CSUma.pdb
